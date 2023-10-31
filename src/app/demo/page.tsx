@@ -1,6 +1,6 @@
 import { Box, Button, Title } from "@mantine/core";
 
-export const Demo = () => {
+const Demo = () => {
   return (
     <Box p={36}>
       <Title order={1}>デモページ</Title>
