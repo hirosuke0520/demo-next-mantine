@@ -1,3 +1,8 @@
+## デプロイ確認
+
+[https://demo-next-mantine.vercel.app/](https://demo-next-mantine.vercel.app/)
+※とりあえず Vercel に上げてます。
+
 ## セットアップ方法
 
 ```
@@ -9,6 +14,9 @@ pnpm dev
 
 # Storybook起動
 pnpm storybook
+
+# Vitestのテスト実行
+pnpm test
 
 ※その他のコマンドは、package.jsonに記載
 ```
