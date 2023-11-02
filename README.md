@@ -3,6 +3,12 @@
 [https://demo-next-mantine.vercel.app/](https://demo-next-mantine.vercel.app/)
 ※とりあえず Vercel に上げてます。
 
+## 前提条件
+
+- 推奨バージョン
+  - node：v18.17 以上（[インストール方法参考記事](https://kinsta.com/jp/blog/how-to-install-node-js/)）
+  - pnpm：v8.10（[インストール方法](https://pnpm.io/ja/installation)）
+
 ## セットアップ方法
 
 ```
